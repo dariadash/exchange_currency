@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Varela-round';
+    src: local("Varela-round"),
+    url("./fonts/VarelaRound-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: local("Nunito-Light"),
+    url('./fonts/Nunito-SemiBold.ttf') format("truetype");
+}
+
+body{
+    margin: 0;
+    font-family: 'Nunito', 'Valera-round'
+}
